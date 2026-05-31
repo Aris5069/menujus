@@ -94,7 +94,7 @@ span{
 }
 .div5{
     display: flex;
-    gap: 115px;
+    gap: 125px;
 }
 .but33{
     margin-left: 10px;
@@ -109,7 +109,7 @@ span{
 }
 .nn{
     background-color:#977820 ;
-    width: 150px;
+    width: 140px;
     height: 40px;
     border-radius: 15px;
     color: white;
@@ -172,4 +172,7 @@ footer{
 .menu {
         right: 15px;       
     }
+.but33{
+    width: 100%;
+}
 }
