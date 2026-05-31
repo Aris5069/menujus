@@ -127,7 +127,9 @@ footer{
     text-align: center;
     
 }
-
+.rr{
+    font-size: 13px;
+}
     
 .back{
     background-color:#977820 ;
@@ -173,11 +175,17 @@ footer{
         right: 15px;       
     }
 .but33{
-    max-width: 15px;
-    max-height: 15px;
+    max-width: 30px;
+    max-height: 30px;
     }
 .nn{
     max-width: 100px;
     
+}
+.rr{
+    font-size: 11px;
+}
+.back{
+    margin-left: 10px;
 }
 }
