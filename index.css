@@ -184,8 +184,12 @@ footer{
 }
 .rr{
     font-size: 11px;
+    
 }
 .back{
+    margin-left: 10px;
+}
+.menu{
     margin-left: 10px;
 }
 }
