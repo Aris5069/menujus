@@ -125,11 +125,7 @@ footer{
     text-align: center;
     
 }
-@media screen  and (max-width: 768px){
-    .container{
-        width: 90%;
-    }
-}
+
     
 .back{
     background-color:#977820 ;
@@ -155,4 +151,10 @@ footer{
     position: absolute;
     margin-left: 320px;
 
+}
+
+@media screen  and (max-width: 768px){
+    .container{
+        width: 90%;
+    }
 }
