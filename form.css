@@ -1,0 +1,107 @@
+
+body{background-image: url("img/iii.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+strong{
+    font-size: 17px;
+}
+.container{
+    background: rgba(255,255,255,0.08);
+    
+    -webkit-backdrop-filter: blur(5px);
+    border-top: 1px solid rgba(255,255,255,0.5);
+    border-left: 1px solid rgba(255,255,255,0.5);
+    border-radius: 25px;
+    backdrop-filter: blur(5px);
+    
+    width:400px;
+    height: 520px;
+    border-radius: 15px;
+    border:1px solid white;
+    justify-content: center;
+    align-items: center;
+
+}
+
+    
+
+.div1,.div2,.div3,.div4,.div4,.div6{
+    color: white;
+    text-align: center;
+}
+.h1{
+    margin-left: -200px;
+}
+.div4{
+    display: flex;
+    gap: 5px;
+}
+.input2{
+    margin-left: 57px;
+    background-color: greenyellow;
+    width: 18px;
+    
+
+}
+input[type="checkbox"]{
+    accent-color: greenyellow;
+}
+.input{
+    background-color: rgba(0, 0,0, 0.1);
+    width:270px;
+    border:1px solid white;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+button{
+    background: linear-gradient(to left,rgb(59, 255, 59), );
+    background: linear-gradient(to right, rgb(23, 183, 23), rgb(9, 112, 26));
+    width:290px;
+    height: 50px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    border:none;
+}
+.div3{
+    position: relative;
+}
+.div3 i{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: -30px;
+}
+
+.div2{
+    position: relative;
+}
+.div2 i{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    margin-left: -30px;
+}
+p{
+    font-weight: normal;
+}
