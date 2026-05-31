@@ -173,6 +173,11 @@ footer{
         right: 15px;       
     }
 .but33{
-    width: 100%;
+    max-width: 15px;
+    max-height: 15px;
+    }
+.nn{
+    max-width: 100px;
+    
 }
 }
